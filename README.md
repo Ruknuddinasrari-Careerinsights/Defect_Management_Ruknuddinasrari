@@ -75,12 +75,6 @@ The Excel workbook contains three tabs:
 
 ---
 
-## 🔗 Previous Assignment Repositories
-
-- **Assignment 1** (Test Strategy & Quality Plan): https://github.com/Ruknuddinasrari-Careerinsights/Software_Quality_Plan_Ruknuddinasrari-Careerinsights
-- **Assignment 2** (Test Case Design & RTM): https://github.com/Ruknuddinasrari-Careerinsights/Test_Case_Design_RTM_Ruknuddinasrari
-
----
 
 ## 📬 Contact
 
