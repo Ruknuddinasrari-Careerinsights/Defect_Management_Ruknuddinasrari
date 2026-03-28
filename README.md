@@ -2,7 +2,6 @@
 
 ## Defect Management & Bug Lifecycle — Student Registration System
 
-> **QA Onboarding Assessment – Assignment 3**
 > Prepared by: Ruknuddin Asrari | Job Title: Software Quality Engineer | Department: IT Software Development
 > Email: ruknuddin.asrari@thecareerinsights.com | March 2026 | Version 1.0
 
